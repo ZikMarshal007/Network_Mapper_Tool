@@ -137,4 +137,4 @@ Run with sudo or root privileges.
 
 If no open ports are detected, check if your target hosts have firewalls.
 
-The tool can be extended with multi-threading, UDP scanning, OS detection, or different scan profiles.                                                                                                                                                                                      
+The tool can be extended with multi-threading, UDP scanning, OS detection, or different scan profiles.                                                                                                                                                                                   
